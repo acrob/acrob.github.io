@@ -24,17 +24,19 @@ body {
 
 body {
     font-family: "Times New Roman", serif;
-    color: #000;
     margin: 0;
     padding: 0;
-    background: #fff;
     font-size: 120%;
+    color: #601f1d;
+    background: #f5f5f5;
 }
 
 #page {
     width: 1000px;
     position: relative;
     margin: 0 auto;
+    color: #601f1d;
+    background: #f5f5f5;
 }
 
 
